@@ -1,0 +1,1 @@
+print('Oleksandr Punko KN-7')
